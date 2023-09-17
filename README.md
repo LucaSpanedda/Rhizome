@@ -1,5 +1,5 @@
 # Rhizome
-Rhizome is a track based on a complex adaptive system that can cyclically create and reprocess audio files, which determine a state of the system and which in return are the recorded product of a given state.
+Rhizome is a piece based on a complex adaptive system that can cyclically create and reprocess audio files, which determine a state of the system and which in return are the recorded product of a given state.
 The process of copying is the main theme, and in its failure it becomes a creative tool in itself; a copy becomes more or less the original although we may not know the original itself, but rather the multiplication of the original.
 In this sense, Deleuze and Guttari speak of the concept of the Rhizome, when within a system constituted by a rooting original, the root itself in its abortive form becomes the new original paradigm itself.
 
