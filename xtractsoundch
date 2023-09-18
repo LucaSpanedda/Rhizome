@@ -1,0 +1,18 @@
+#!/bin/bash
+# script for extract an audio channel from an audio file
+
+# Check if an argument has been provided
+if [ -z "$1" ]; then
+    echo "You must provide an argument!"
+    exit 1
+fi
+
+# Use the provided argument
+arg=$1
+for (( ; ; ))
+do
+   echo "insert the number of the channel you want to extract"
+   echo "or exit with ctrl+c if you have done"
+   read channel
+   sudo sox $arg.wav $arg-$channel.wav remix $channel
+done
